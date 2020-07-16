@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bonjour le Monde</string>
+    <string name="title_msg">Bienvenue</string>
+    <string name="btn_msg">Entrer</string>
+</resources>
